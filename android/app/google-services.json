@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "307737501582",
+    "project_id": "fintechauthenticator",
+    "storage_bucket": "fintechauthenticator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307737501582:android:842b81253603717808cedf",
+        "android_client_info": {
+          "package_name": "com.fintechauthenticator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307737501582-tdapagf1aiaiq9obhmobret66rr9p5n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fintechauthenticator",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "307737501582-t1s2gesc75j13981h8u1mo0593c6ti7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtC3kdqBN9dMv_Sy65ADQdveighkIY8BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307737501582-t1s2gesc75j13981h8u1mo0593c6ti7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
